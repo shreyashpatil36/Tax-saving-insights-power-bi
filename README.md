@@ -1,4 +1,4 @@
-Tax-Saving Investment Insights Dashboard
+**Tax-Saving Investment Insights Dashboard**
 An interactive Power BI dashboard designed to analyze user financial profiles and recommend tax-saving investment products based on income, risk tolerance, and financial goals. The dashboard consists of 4 main pages, each focusing on a different aspect of financial behavior and planning.
 
 Dashboard Pages
