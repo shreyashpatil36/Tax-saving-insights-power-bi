@@ -22,7 +22,6 @@ An interactive and insightful Power BI dashboard designed to empower users in ma
 🎯 Output: Product recommendations tailored to each user segment.
 
 📊 Visuals Used: Donut charts, bar graphs, and card visuals
-
 ![image](https://github.com/user-attachments/assets/f7c45ea7-c450-40e1-950f-b61b54d4fe10)
 
 **🔹 2️⃣ Financial Profile – Income & Tax**
@@ -35,8 +34,7 @@ An interactive and insightful Power BI dashboard designed to empower users in ma
 
 📉 Identify tax-saving opportunities by bracket
 
-📊 Visuals Used: Clustered bar charts, stacked columns, matrix tables
-
+📊 Visuals Used: Clustered bar charts, stacked columns, matrix table
 ![image](https://github.com/user-attachments/assets/3079aa4f-e573-4e25-996b-c1d7d5b0d3cc)
 
 **🔹 3️⃣ Risk Profile & Product Recommendations**
@@ -60,7 +58,6 @@ An interactive and insightful Power BI dashboard designed to empower users in ma
 👧 SSY (Sukanya Samriddhi Yojana)
 
 📊 Visuals Used: Sankey diagrams, scatter plots, recommendation matrix
-
 ![image](https://github.com/user-attachments/assets/de99be3e-3de6-460e-a834-e9e18b4d8386)
 
 **🔹 4️⃣ Financial Goals Mapping**
@@ -79,7 +76,6 @@ An interactive and insightful Power BI dashboard designed to empower users in ma
 
 📊 Segmented By: Age groups & employment types
 📈 Visuals Used: Tree maps, stacked bar charts, column graphs
-
 ![image](https://github.com/user-attachments/assets/6c0a6048-5f9b-420e-a145-a07c08c4d8e9)
 
 
