@@ -1,80 +1,84 @@
-**Tax-Saving Investment Insights Dashboard**
-An interactive Power BI dashboard designed to analyze user financial profiles and recommend tax-saving investment products based on income, risk tolerance, and financial goals. The dashboard consists of 4 main pages, each focusing on a different aspect of financial behavior and planning.
+**💰📊 Tax-Saving Investment Insights Dashboard**
+An interactive and insightful Power BI dashboard designed to empower users in making smarter tax-saving decisions. It analyzes financial profiles, assesses risk levels, and maps financial goals to recommend the most suitable tax-saving investment products — all visually and intuitively.
 
-Dashboard Pages
-1️⃣ User Overview
-Visualizes demographic distribution of users including:
+**🌟 Project Features**
+🧠 Personalized | 📈 Data-Driven | 🔍 Goal-Oriented | 🔒 Secure
 
-Age groups
+**📂 Dashboard Structure**
+**🔹 1️⃣ User Overview**
+🧑‍🤝‍🧑 Understand user demographics at a glance:
 
-Number of dependents
+👥 Age Group Segmentation
 
-Employment types
+👨‍👩‍👧‍👦 Number of Dependents
 
-Liquidity preferences
+💼 Employment Types
 
-Displays recommended investment products tailored to each user segment.
+💧 Liquidity Preferences
 
+🎯 Output: Product recommendations tailored to each user segment.
+
+📊 Visuals Used: Donut charts, bar graphs, and card visuals
 ![image](https://github.com/user-attachments/assets/f7c45ea7-c450-40e1-950f-b61b54d4fe10)
 
-2️⃣ Financial Profile – Income & Tax
-Provides insight into users' income brackets and tax liabilities.
+**🔹 2️⃣ Financial Profile – Income & Tax**
+💸 Dive deep into income insights and potential tax savings:
 
-Analyzes income across different employment categories.
+💼 Income analysis by job category
 
-Tracks tax-saving potential based on user income data.
+💰 Tax liability evaluation
 
-Visuals include: Clustered bar charts, stacked visuals, and matrix tables for cross-dimensional analysis.
+📉 Identify tax-saving opportunities by bracket
+
+📊 Visuals Used: Clustered bar charts, stacked columns, matrix tables
 
 ![image](https://github.com/user-attachments/assets/3079aa4f-e573-4e25-996b-c1d7d5b0d3cc)
 
-3️⃣ Risk Profile & Product Recommendations
-Evaluates each user’s:
+**🔹 3️⃣ Risk Profile & Product Recommendations**
+⚖️ Assess risk appetite and investment knowledge:
 
-Risk tolerance (risk score)
+🔢 User Risk Scores
 
-Investment knowledge level
+📚 Investment Literacy Level
 
-Maps suitable tax-saving products such as:
+📦 Mapped Product Suggestions:
 
-ELSS (Equity Linked Saving Scheme)
+📊 ELSS (Equity Linked Saving Scheme)
 
-NPS (National Pension Scheme)
+🏦 NPS (National Pension Scheme)
 
-NSC (National Saving Certificate)
+💵 NSC (National Savings Certificate)
 
-PPF (Public Provident Fund)
+💸 PPF (Public Provident Fund)
 
-SSY (Sukanya Samriddhi Yojana)
+👧 SSY (Sukanya Samriddhi Yojana)
 
-Charts Used: Sankey diagrams, scatter plots, and distribution bar charts.
-
+📊 Visuals Used: Sankey diagrams, scatter plots, recommendation matrix
 ![image](https://github.com/user-attachments/assets/de99be3e-3de6-460e-a834-e9e18b4d8386)
 
-4️⃣ Financial Goals Mapping
-Maps users' primary financial goals:
+**🔹 4️⃣ Financial Goals Mapping**
+🎯 Link personal goals with investment plans:
 
-Retirement Planning
+👴 Retirement Planning
 
-Wealth Creation
+💼 Wealth Creation
 
-Emergency Fund
+🚨 Emergency Fund
 
-Tax Saving
+🧾 Tax Saving
 
-Child Education
+🧒 Child Education
 
-Provides goal distribution based on:
-
-Age groups
-
-Employment types
-
-Helps understand the investment priorities of various user segments.
-
-Visuals: Stacked bar charts, column graphs, and tree maps.
-
+📊 Segmented By: Age groups & employment types
+📈 Visuals Used: Tree maps, stacked bar charts, column graphs
 ![image](https://github.com/user-attachments/assets/6c0a6048-5f9b-420e-a145-a07c08c4d8e9)
 
+
+**🧰 Tech Stack & Tools**
+Tool	Usage
+Power BI Desktop	Dashboard development & visualization
+Power Query	Data transformation & cleaning
+DAX	Custom logic and KPI calculations
+Excel	Pre-processing and base data
 
 
