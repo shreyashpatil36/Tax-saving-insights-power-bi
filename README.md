@@ -2,7 +2,6 @@
 
 # 💰📊 **Tax-Saving Investment Insights Dashboard**
 
-🔗 [View Project on GitHub](https://github.com/shreyashpatil36/Tax-saving-insights-power-bi)
 
 An interactive and insightful **Power BI dashboard** designed to empower users in making smarter tax-saving decisions. It analyzes financial profiles, assesses risk levels, and maps financial goals to recommend the most suitable tax-saving investment products — all visually and intuitively.
 
@@ -97,18 +96,5 @@ An interactive and insightful **Power BI dashboard** designed to empower users i
 
 ---
 
-## 📎 **Project Repository**
 
-> 🔗 [GitHub Repository – Tax-Saving Investment Dashboard](https://github.com/shreyashpatil36/Tax-saving-insights-power-bi)
-
----
-
-## 📸 **Preview (Optional)**
-
-> *(Add screenshots/GIFs here if available to enhance aesthetics)*
-> You can add visuals like the Home Page, Risk Profile Page, or Goals Mapping page to make your README even more engaging.
-
----
-
-Would you like me to create the actual `README.md` file with formatting and image placeholders so you can copy-paste it directly to your GitHub?
 
