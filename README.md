@@ -9,6 +9,7 @@ An interactive and insightful Power BI dashboard designed to empower users in ma
 **📂 Dashboard Structure**
 
 **🔹 1️⃣ User Overview**
+
 🧑‍🤝‍🧑 Understand user demographics at a glance:
 
 👥 Age Group Segmentation
